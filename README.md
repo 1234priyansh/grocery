@@ -9,7 +9,7 @@
 
 ---
 
-## 📝 Project Description: Grocery Website with User Registration and Shopping Features**
+## 📝 Project Description: Grocery Website with User Registration and Shopping Features
 
 This project is an **Grocery website** designed to provide an intuitive and engaging online shopping experience for users. It combines a clean, modern design with advanced functionalities to ensure a smooth and efficient interaction for customers. The website offers a variety of features, including **user registration**, **product showcases**, **shopping cart functionality**, and a **responsive layout** optimized for all devices. The goal of this project is to create an online platform that is easy to navigate, visually appealing, and equipped with essential e-commerce functionalities to enhance user experience and drive conversions.
 
