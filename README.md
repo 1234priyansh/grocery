@@ -1,6 +1,6 @@
 # Web Development Final Project
 
-## Project Title - Grocer Shop
+## Project Title - Grocery Shop
 
 ## 👤 Student Information
 **Name:** Priyanshu
