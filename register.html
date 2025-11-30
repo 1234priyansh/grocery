@@ -1,0 +1,61 @@
+<?php 
+include 'register.php';
+?>
+
+<!-- Register Page (register.html) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Register | Groco</title>
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+
+  <header class="header">
+    <!-- Same Header from the checkout page -->
+    <a href="#" class="logo"><i class="fas fa-shopping-basket"></i> Groco</a>
+    <nav class="navbar">
+      <a href="index.html#home">home</a>
+      <a href="index.html#products">products</a>
+      <a href="index.html#categories">categories</a>
+      <a href="index.html#reviews">review</a>
+      <a href="index.html#blogs">blogs</a>
+      <a href="login.html" class="account-link">Login</a>
+    </nav>
+  </header>
+
+  <section class="register">
+    <h1>Create an Account</h1>
+    <form action="#" method="post" id="register-form">
+      <div class="inputBox">
+        <span>Full Name:</span>
+        <input type="text" id="fullname" name="name" placeholder="John Doe" required>
+      </div>
+
+      <div class="inputBox">
+        <span>Email:</span>
+        <input type="email" id="email" name="email" placeholder="john@example.com" required>
+      </div>
+
+      <div class="inputBox">
+        <span>Password:</span>
+        <input type="password" id="password" name="password" placeholder="******" required>
+      </div>
+
+      <div class="inputBox">
+        <span>Confirm Password:</span>
+        <input type="password" id="confirm-password" name="confirm-password" placeholder="******" required>
+      </div>
+
+      <input type="submit" value="Register" class="btn">
+    </form>
+  </section>
+
+  <footer class="footer">
+    <!-- Footer content here -->
+  </footer>
+
+</body>
+</html>
